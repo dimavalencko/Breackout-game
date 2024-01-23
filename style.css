@@ -1,0 +1,13 @@
+body {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+}
+
+#game {
+  background-color: rgb(220, 237, 255);
+  margin-top: 10rem;
+  border: 2px solid rgb(28, 118, 244);
+}
